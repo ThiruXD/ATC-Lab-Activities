@@ -85,4 +85,4 @@ Since online compilers usually provide a terminal, you must run these commands m
 3. Execute `./a.out`.
 4. Type your text, then press `Ctrl+D` (EOF) to see the results.
 
-- Credits: [ThiruXD](https://github.com/thiruxd)
+### Credits: [ThiruXD](https://github.com/thiruxd)

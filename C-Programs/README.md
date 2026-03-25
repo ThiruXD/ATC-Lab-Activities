@@ -62,3 +62,5 @@ If you are using an online tool like **OnlineGDB**, **TutorialsPoint**, or **Rep
 * **Activities 9-10** focus on the **Back-end** (Optimization and Synthesis). They deal with making the code faster and translating it for the CPU.
 
 ---
+
+### Credits: [ThiruXD](https://github.com/thiruxd)
